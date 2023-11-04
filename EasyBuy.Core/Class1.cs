@@ -1,7 +1,6 @@
-﻿namespace EasyBuy.Core
-{
-    public class Class1
-    {
+﻿namespace EasyBuy.Core;
 
-    }
+public class Class1
+{
+
 }

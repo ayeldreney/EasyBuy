@@ -1,0 +1,12 @@
+E:\Project\EasyBuy\EasyBuy.Core\bin\Debug\net6.0\EasyBuy.Core.deps.json
+E:\Project\EasyBuy\EasyBuy.Core\bin\Debug\net6.0\EasyBuy.Core.dll
+E:\Project\EasyBuy\EasyBuy.Core\bin\Debug\net6.0\EasyBuy.Core.pdb
+E:\Project\EasyBuy\EasyBuy.Core\obj\Debug\net6.0\EasyBuy.Core.csproj.AssemblyReference.cache
+E:\Project\EasyBuy\EasyBuy.Core\obj\Debug\net6.0\EasyBuy.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\EasyBuy\EasyBuy.Core\obj\Debug\net6.0\EasyBuy.Core.AssemblyInfoInputs.cache
+E:\Project\EasyBuy\EasyBuy.Core\obj\Debug\net6.0\EasyBuy.Core.AssemblyInfo.cs
+E:\Project\EasyBuy\EasyBuy.Core\obj\Debug\net6.0\EasyBuy.Core.csproj.CoreCompileInputs.cache
+E:\Project\EasyBuy\EasyBuy.Core\obj\Debug\net6.0\EasyBuy.Core.dll
+E:\Project\EasyBuy\EasyBuy.Core\obj\Debug\net6.0\refint\EasyBuy.Core.dll
+E:\Project\EasyBuy\EasyBuy.Core\obj\Debug\net6.0\EasyBuy.Core.pdb
+E:\Project\EasyBuy\EasyBuy.Core\obj\Debug\net6.0\ref\EasyBuy.Core.dll
