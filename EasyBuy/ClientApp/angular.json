@@ -132,5 +132,8 @@
       }
     }
   },
-  "defaultProject": "EasyBuy"
+  "defaultProject": "EasyBuy",
+  "cli": {
+    "analytics": false
+  }
 }
